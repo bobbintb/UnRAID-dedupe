@@ -7,7 +7,7 @@
 <!ENTITY launch    "Settings/dedupe">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/bobbintb/UnRAID-dedupe/main/&name;.plg">
 <!ENTITY source    "/boot/config/plugins/&name;/&name;">
-<!ENTITY MD5       "b6dbf20ddfaa7c20d8c5afe4649ede9c">
+<!ENTITY MD5       "8756fe3e781a39211c18803389d011d2">
 ]>
 
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" min="6.1.9">
