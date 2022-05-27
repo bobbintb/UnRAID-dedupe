@@ -1,7 +1,7 @@
 <?xml version='1.0' standalone='yes'?>
 
 <!DOCTYPE PLUGIN [
-<!ENTITY name      "dedupe">
+<!ENTITY name      "bobbintb.system.dedupe">
 <!ENTITY author    "bobbintb">
 <!ENTITY version   "2020.06.21">
 <!ENTITY launch    "Settings/dedupe">
