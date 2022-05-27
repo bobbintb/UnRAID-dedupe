@@ -7,7 +7,7 @@
 <!ENTITY launch    "Settings/dedupe">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/bobbintb/UnRAID-dedupe/main/&name;.plg">
 <!ENTITY source    "/boot/config/plugins/&name;/&name;">
-<!ENTITY MD5       "0122ea8ba1111ce163ec8311b9a58274">
+<!ENTITY MD5       "0F84C8EDB2B14ECF6AA962333ED161B6">
 ]>
 
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" min="6.1.9">
@@ -36,7 +36,7 @@ fi
 
 <!-- SOURCE PACKAGE -->
 <FILE Name="&source;.txz" Run="upgradepkg --install-new --reinstall">
-<URL>https://raw.githubusercontent.com/bergware/dynamix/master/archive/&name;.txz</URL>
+<URL>https://raw.githubusercontent.com/bobbintb/UnRAID-dedupe/main/&name;.txz</URL>
 <MD5>&MD5;</MD5>
 </FILE>
 
